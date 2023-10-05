@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/Para2/Para2.iml" filepath="$PROJECT_DIR$/Para2/Para2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Para3/Para3.iml" filepath="$PROJECT_DIR$/Para3/Para3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Para4/Para4.iml" filepath="$PROJECT_DIR$/Para4/Para4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Para5/Para5.iml" filepath="$PROJECT_DIR$/Para5/Para5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEST/TEST.iml" filepath="$PROJECT_DIR$/TEST/TEST.iml" />
     </modules>
   </component>
 </project>
